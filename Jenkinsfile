@@ -4,7 +4,7 @@ pipeline {
         stage('Hello') {
             steps {
                 echo 'Hello World'
-		Hi I removing the below line and iam added the new line
+		Hi I removingn the below line and iam added the new line
             }
         }
     }
