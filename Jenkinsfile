@@ -4,7 +4,7 @@ pipeline {
         stage('Hello') {
             steps {
                 echo 'Hello World'
-		Hi I am testing this file
+		Hi I removing the below line
             }
         }
     }
