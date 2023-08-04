@@ -9,5 +9,4 @@ pipeline {
     }
 }
 
-
-https://acb13f15f626a4ef7b69e0e938cff662-1001732329.us-east-1.elb.amazonaws.com/
+a1264a2a5fda54d3fb83b0cb0470d7fc-31117554.us-east-1.elb.amazonaws.com
